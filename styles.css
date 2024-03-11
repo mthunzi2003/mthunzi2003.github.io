@@ -11,6 +11,23 @@ body {
     line-height: 1.6;
 }
 
+nav {
+    position: sticky;
+    top:0;
+    background-color: #333;
+    padding: 15px;
+    z-index: 1000;
+}
+nav a {
+    text-decoration: none;
+    color: white
+    padding 5px 10px;
+}
+
+nava:hover{
+    text-decoration: underline;
+}
+
 nav ul {
     list-style: none;
     display: flex;
