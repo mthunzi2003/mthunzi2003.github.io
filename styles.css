@@ -38,11 +38,6 @@ nav li {
     margin-right: 20px;
 }
 
-.profile-picture img {
-    max- width;50%;
-    height: auto;
-}
-
 section {
     margin-bottom: 20px;
 }
@@ -51,7 +46,7 @@ section {
 
 .profile-picture img {
 
-    max-width: 100%;
+    max-width: 50%;
 
     height: auto;
 
